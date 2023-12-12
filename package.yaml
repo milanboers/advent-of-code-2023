@@ -25,6 +25,7 @@ dependencies:
 - containers
 - matrix
 - vector
+- uglymemo
 
 ghc-options:
 - -Wall
