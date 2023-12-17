@@ -34,6 +34,7 @@ executable dummy
       base >=4.7 && <5
     , containers
     , matrix
+    , search-algorithms
     , split
     , uglymemo
     , vector
