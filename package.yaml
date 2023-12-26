@@ -27,6 +27,7 @@ dependencies:
 - vector
 - uglymemo
 - search-algorithms
+- random
 
 ghc-options:
 - -Wall
